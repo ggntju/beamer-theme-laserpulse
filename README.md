@@ -22,21 +22,5 @@
 \end{document}
 ```
 
-## Todo List
-- [x] 中文支持
-- [x] Usage Example
-    - [x] itemize
-    - [x] enumerate
-    - [x] columns
-    - [x] images
-    - [x] animation
-    - [x] cite
-    - [x] block
-    - [x] algorithm
-    - [x] code
-    - [x] tikz
-    - [x] equation
-    - [x] foot cite
-
 ## Contribute
 [Feel free to issue here](https://github.com/ggntju/beamer-theme-laserpulse/issues)
